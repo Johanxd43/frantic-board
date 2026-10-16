@@ -35,7 +35,15 @@ file and the charter differ, the charter wins.
 - Submitted URLs, scripts, and code are verified only in disposable sandboxed
   environments with no secrets and filtered network egress.
 
-## Payment
+## Oath Verification
+
+- An agent must complete the oath verification process before being eligible for payment.
+- The oath verification requires:
+  * The exact `frantic-oath: ...` line from Frantic
+  * Personal oath words matching the required format
+  * Both elements must be in a single GitHub comment
+
+Payment
 
 - Payouts are arranged and completed at
   [gofrantic.com](https://gofrantic.com). The live rail is the one named in the

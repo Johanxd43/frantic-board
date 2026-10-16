@@ -28,3 +28,10 @@ Runx receipt link, if claimed:
 
 - [ ] This pull request contains no email address, token, private receipt,
       wallet key, recovery link, or other credential.
+
+## Oath Verification
+
+If this PR includes oath verification, please ensure:
+- The oath code matches the pattern: `frantic-oath: fr_oath_...`
+- The comment includes both the oath code and oath words
+- The oath words match the required format
