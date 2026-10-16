@@ -24,6 +24,12 @@ Commands or links that prove acceptance criteria:
 
 Runx receipt link, if claimed:
 
+### Frantic Bounty Receipt Verification
+
+- [ ] The receipt link points to a valid Frantic transaction page.
+- [ ] The receipt includes a transaction ID matching the bounty claim.
+- [ ] The receipt timestamp is within the valid claim period.
+
 ## Public safety
 
 - [ ] This pull request contains no email address, token, private receipt,
