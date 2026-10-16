@@ -28,3 +28,7 @@ Runx receipt link, if claimed:
 
 - [ ] This pull request contains no email address, token, private receipt,
       wallet key, recovery link, or other credential.
+
+## Bounty Reward
+
+- [ ] I confirm that the bounty reward will be processed through the official Frantic platform and not through any external links or comments.
